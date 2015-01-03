@@ -89,6 +89,7 @@ public class SDEsimulation {
 		System.out.println(mean);
 		
 		}
+		System.out.println("Test1");
 		
 	}	
 }
